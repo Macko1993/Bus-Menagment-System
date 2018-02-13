@@ -1,0 +1,17 @@
+C:\Users\Macko_000\Desktop\Proekt busovi2\DraxlmaierBusSystemMenagment\DraxlmaierBusSystemMenagment\bin\Debug\DraxlmaierBusSystemMenagment.exe.config
+C:\Users\Macko_000\Desktop\Proekt busovi2\DraxlmaierBusSystemMenagment\DraxlmaierBusSystemMenagment\bin\Debug\mydb.accdb
+C:\Users\Macko_000\Desktop\Proekt busovi2\DraxlmaierBusSystemMenagment\DraxlmaierBusSystemMenagment\bin\Debug\DraxlmaierBusSystemMenagment.exe
+C:\Users\Macko_000\Desktop\Proekt busovi2\DraxlmaierBusSystemMenagment\DraxlmaierBusSystemMenagment\bin\Debug\DraxlmaierBusSystemMenagment.pdb
+C:\Users\Macko_000\Desktop\Proekt busovi2\DraxlmaierBusSystemMenagment\DraxlmaierBusSystemMenagment\obj\Debug\DraxlmaierBusSystemMenagment.Form1.resources
+C:\Users\Macko_000\Desktop\Proekt busovi2\DraxlmaierBusSystemMenagment\DraxlmaierBusSystemMenagment\obj\Debug\DraxlmaierBusSystemMenagment.Properties.Resources.resources
+C:\Users\Macko_000\Desktop\Proekt busovi2\DraxlmaierBusSystemMenagment\DraxlmaierBusSystemMenagment\obj\Debug\DraxlmaierBusSystemMenagment.csproj.GenerateResource.Cache
+C:\Users\Macko_000\Desktop\Proekt busovi2\DraxlmaierBusSystemMenagment\DraxlmaierBusSystemMenagment\obj\Debug\DraxlmaierBusSystemMenagment.exe
+C:\Users\Macko_000\Desktop\Proekt busovi2\DraxlmaierBusSystemMenagment\DraxlmaierBusSystemMenagment\obj\Debug\DraxlmaierBusSystemMenagment.pdb
+C:\Users\Macko_000\Desktop\Proekt busovi2\DraxlmaierBusSystemMenagment\DraxlmaierBusSystemMenagment\bin\Debug\DraxlmaierBusSystemMenagment.exe.manifest
+C:\Users\Macko_000\Desktop\Proekt busovi2\DraxlmaierBusSystemMenagment\DraxlmaierBusSystemMenagment\bin\Debug\DraxlmaierBusSystemMenagment.application
+C:\Users\Macko_000\Desktop\Proekt busovi2\DraxlmaierBusSystemMenagment\DraxlmaierBusSystemMenagment\obj\Debug\DraxlmaierBusSystemMenagment.exe.manifest
+C:\Users\Macko_000\Desktop\Proekt busovi2\DraxlmaierBusSystemMenagment\DraxlmaierBusSystemMenagment\obj\Debug\DraxlmaierBusSystemMenagment.application
+C:\Users\Macko_000\Desktop\Proekt busovi2\DraxlmaierBusSystemMenagment\DraxlmaierBusSystemMenagment\obj\Debug\DraxlmaierBusSystemMenagment.csprojResolveAssemblyReference.cache
+C:\Users\Macko_000\Desktop\DMM rabota programa\Proekt busovi2\DraxlmaierBusSystemMenagment\DraxlmaierBusSystemMenagment\bin\Debug\DraxlmaierBusSystemMenagment.exe.config
+C:\Users\Macko_000\Desktop\DMM rabota programa\Proekt busovi2\DraxlmaierBusSystemMenagment\DraxlmaierBusSystemMenagment\obj\Debug\DraxlmaierBusSystemMenagment.exe
+C:\Users\Macko_000\Desktop\DMM rabota programa\Proekt busovi2\DraxlmaierBusSystemMenagment\DraxlmaierBusSystemMenagment\obj\Debug\DraxlmaierBusSystemMenagment.pdb
